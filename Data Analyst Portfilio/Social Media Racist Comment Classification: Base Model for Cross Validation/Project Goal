@@ -1,0 +1,11 @@
+Aim and Objective
+
+In this project, I propose a machine learning model for the automatic detection of racist comment across social media platforms.
+To achieve this, I will:
+- Track down past events and social media trends which are likely to have triggered racist reactions.
+- Retrieve annotated comments from public social media sites like Facebook, Instagram, Twitter, YouTube and TikTok.
+- Created an unbiased dataset of racist comments across social media platforms.
+- Prepared the data for supervised learning and cleaning the dataset using certain natural language processing techniques in order to achieve best results.
+- Trained the model to detect racist comments based on the dataset using the Naïve Bayesian Classifier, Logistic Regression, and Support Vector Machines.
+- Tested the model to determine its accuracy.
+- Compared the accuracy of the model when each of the classifiers were used.
